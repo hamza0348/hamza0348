@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hamza0348
 - 👀 I’m interested in android and flutter development
 - 🌱 I’m currently learning android development
-- 💞️ I’m looking to collaborate on ....
+- 💞️ I’m looking to collaborate on Quran application
 - 📫 How to reach me hasninhamzakhan1@gmail.com
 
 <!---
